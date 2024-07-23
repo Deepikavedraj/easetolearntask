@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/easetolearntask/static/css/main.90128dc3.css",
+    "main.js": "/easetolearntask/static/js/main.4b7f13af.js",
+    "static/js/453.1407b060.chunk.js": "/easetolearntask/static/js/453.1407b060.chunk.js",
+    "index.html": "/easetolearntask/index.html",
+    "main.90128dc3.css.map": "/easetolearntask/static/css/main.90128dc3.css.map",
+    "main.4b7f13af.js.map": "/easetolearntask/static/js/main.4b7f13af.js.map",
+    "453.1407b060.chunk.js.map": "/easetolearntask/static/js/453.1407b060.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.90128dc3.css",
+    "static/js/main.4b7f13af.js"
+  ]
+}
